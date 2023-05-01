@@ -1,6 +1,6 @@
 ### Hi there, I'm SOIKAT 👋
 
-### [My Portfolio](soikatahamed.live)
+### [My Portfolio]("https://www.soikatahamed.live")
 
 <p>
   <em>
