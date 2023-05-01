@@ -1,6 +1,6 @@
 ### Hi there, I'm SOIKAT 👋
 
-### Find me in soikatahamed.live
+### [My Portfolio](soikatahamed.live)
 
 <p>
   <em>
