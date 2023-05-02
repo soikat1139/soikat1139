@@ -15,6 +15,7 @@
  ![Lines of code](https://img.shields.io/badge/From%20HelloWorld%20i've%20written%20-105205%2B%20lines%20of%20code-blue)
 
 - 🔭 I’m currently working on ** A lot of super Interesting Projects🙃**
+    ---I want a contributor to my next project.
 - 🌱 I’m currently learning **to survive😵‍💫**
 - 👯 I’m *looking to collaborate* on **JavaScript📜 projects.**
 
