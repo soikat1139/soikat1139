@@ -11,6 +11,7 @@
     <b>excel.</b> 🏅
   </em>  
 </p>
+    <p>Currently Learning TypeScript</P>
  
  ![Lines of code](https://img.shields.io/badge/From%20HelloWorld%20i've%20written%20-105205%2B%20lines%20of%20code-blue)
 
