@@ -1,6 +1,7 @@
 ### Hi there, I'm SOIKAT 👋
 
 ### [My Portfolio](https://www.soikatahamed.live)
+### [Contact Me](https://linktr.ee/soikatabd)
 
 <p>
   <em>
