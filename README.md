@@ -2,6 +2,8 @@
 
 ### [My Portfolio](https://www.soikatahamed.live)
 ### [Contact Me](https://linktr.ee/soikatabd)
+### [LeetCode ](https://leetcode.com/soikatabd/)
+### [Code Wars](https://www.codewars.com/users/soikat1139)
 
 <p>
   <em>
