@@ -4,6 +4,34 @@
 ### [Contact Me](https://linktr.ee/soikatabd)
 ### [LeetCode ](https://leetcode.com/soikatabd/)
 ### [Code Wars](https://www.codewars.com/users/soikat1139)
+<table align="center">
+  <tr>
+    <td align="center">
+      <table>
+        <tr align="center"><td>
+          <h1>
+            Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
+          </h1>
+        </td></tr>
+        <tr><td>
+          <a href="https://leetcode.com/abhinit21/" >
+             <img alt="click here" width="475em" src="https://leetcard.jacoblin.cool/abhinit21?ext=heatmap" />
+          </a>
+        </td></tr>
+      </table>
+    </td>
+    <td align="center">
+      <table>
+        <tr align="center"><td><img height="30" src="https://profile-counter.glitch.me/abhinit21/count.svg?" /></td></tr>
+        <tr><td>
+          <a href="https://stackoverflow.com/users/13334778/abhinit21" >
+            <img width="240em" src="https://github-readme-stackoverflow.vercel.app/?userID=13334778&theme=dark" />
+          </a>
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <p>
   <em>
