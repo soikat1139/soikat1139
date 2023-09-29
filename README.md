@@ -24,16 +24,9 @@
   </tr>
 </table>
 
-<p>
-  <em>
- 
-    👨🏼‍💻,  🕵🏼, <b>Teacher<b> 🧑🏼‍🏫 and a <b>Design Enthusiast 🎨,  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> 🚀and 
-    <b>excel.</b> 🏅
-  </em>  
-</p>
-    <p>Currently Learning TypeScript</P>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soikat1139&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Currently Learning TypeScript</P>
  
  ![Lines of code](https://img.shields.io/badge/From%20HelloWorld%20i've%20written%20-105205%2B%20lines%20of%20code-blue)
 
